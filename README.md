@@ -1,16 +1,36 @@
-# newsify
+# 📰 Newsify – Flutter News App
 
-A new Flutter project.
+**Newsify** is a modern Flutter application that delivers real-time, category-based news updates using the [NewsAPI](https://newsapi.org/). Stay updated with global and Indian headlines in a beautifully designed, user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Category-Based News** (Technology, Sports, Health, Business, etc.)
+- 🌐 **Live Top Headlines** from India
+- 📰 **Article Viewer** with in-app browser
+- 🌙 **Dark Mode Support**
+- ⚡ **Clean & Responsive UI**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Built With
+
+- [Flutter](https://flutter.dev/)
+- [NewsAPI.org](https://newsapi.org/)
+- [Dart](https://dart.dev/)
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Flutter installed ([Setup Guide](https://flutter.dev/docs/get-started/install))
+- A NewsAPI key from [https://newsapi.org/](https://newsapi.org/)
+
+### Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/newsify.git
+   cd newsify
